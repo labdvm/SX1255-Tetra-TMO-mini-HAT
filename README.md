@@ -1,4 +1,5 @@
 # SX1255-Tetra-TMO-mini-HAT
+# You can Donate for better progress and support, https://www.paypal.com/donate/?hosted_button_id=WZ52L7DWVVQ28
 same as SX1255 Tetra-TMO HS HAT but without PA.
 This is modified SXceiver, thanks to Tatu Peltola for shared schematic.
 # This version of mini HAT is with LowPass filter on the TX and BandPass filter on the RX.
