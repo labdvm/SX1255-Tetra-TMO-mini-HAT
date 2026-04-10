@@ -8,5 +8,5 @@ This is modified SXceiver, thanks to Tatu Peltola for shared schematic.
 You can generate eeprom.bin here " https://github.com/tejeez/sxxcvr/blob/main/dts/README.md ".
 # For Tetra-TMO Base Station this is the installing procedures, " https://github.com/MidnightBlueLabs/tetra-bluestation-docs/wiki ".
 # https://github.com/MidnightBlueLabs/tetra-bluestation
-# BlueStation Tetra TMO configurator " https://dimetra.russel053.com/ "
+# BlueStation Tetra TMO configurator " https://bluestation.russel053.com/ "
 # Z32IT
